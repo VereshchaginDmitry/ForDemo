@@ -8,5 +8,6 @@ public class ForDemo {
         System.out.println( "Значение счетчика :" + count);
 
         System.out.println ( "Готово !") ;
+        System.out.println( "Super");
     }
 }
